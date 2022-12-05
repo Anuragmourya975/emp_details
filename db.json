@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Anurag Mourya",
+      "address": "Pratap Colony Pipliamandi Mandsour",
+      "email": "anuragmourya975@gmail.com",
+      "phone": "778-545-5646",
+      "salary": "564564",
+      "id": 1
+    },
+    {
+      "name": "Anurag Mourya",
+      "address": "Pratap Colony Pipliamandi Mandsour",
+      "email": "anuragmourya975@gmail.com",
+      "phone": "456-464-4456",
+      "salary": "5645646",
+      "id": 2
+    }
+  ]
+}
